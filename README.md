@@ -1,6 +1,6 @@
 ## Hi, I'm Michael👋 An IT Professional, Data Engineer, and Cloud Engineer
 
-# IT Professional | Future Data Engineer | Cloud Engineer
+### IT Professional | Future Data Engineer | Cloud Engineer
 
 Welcome to my GitHub!
 

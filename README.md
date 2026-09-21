@@ -1,12 +1,13 @@
-## Hi there 👋
+## Hi, I'm Michael👋 An IT Professional, Data Engineer, and Cloud Engineer
 
-I'm Mike, a undergrad software engineer based in the U.S.
+# IT Professional | Future Data Engineer | Cloud Engineer
 
-I work on frontend and backend stuff.  I am working on becoming a full-stack engineer for a company!
+Welcome to my GitHub!
 
-I use Figma for my UI designs and Procreate for sketching my ideas.
+I'm an IT professional and Computer Science graduate/learner building expertise in Data Engineering, Cloud Engineering, automation, and enterprise technology.
 
-This is a fresh profile where I'll be uploading smaller projects, experiments, and things I'm currently working on.  Everything here is built from scratch and 100% created as solutions to real-world problems!
+My goal is to design reliable systems that transform raw data into useful information, automate business processes, and leverage cloud infrastructure to solve real-world problems.
+
 
 ## Tools & Tech ⚡
 

@@ -65,6 +65,31 @@ My long-term objective is to develop deep technical expertise in designing syste
 
 🔐 Secure • 📈 Scalable • ⚙️ Automated • 🛡️ Reliable • 👁️ Observable • ☁️ Cloud-Native
 
+## 📂 Portfolio Projects
+
+#### Microsoft Azure Entra ID
+- [Creating User's in Entra ID]()
+- [Cloud Provisioning - P2 Licensing]()
+- [Role Assignments]()
+- [Group Assignments]()
+- [Identity Lifecycle]()
+- [Audit Logs]()
+- [Sign-In Logs]()
+- [Authentication]()
+  
+#### Deployment, Networking, Troubleshooting
+- [Creating Resource Group, Deploying Virtual Machine, and RDP]()
+- [Creating and Managing Local Users]()
+- [Troubleshooting Network Connectivity]()
+- [Managing Windows Updates]()
+- [Software Installation]()
+- [Print Queue]()
+- [Credential Manager and Cache]()
+- [PowerShell]()
+  
+#### Ticketing System
+- [SpiceWorks Ticketing System]()
+
 ## 📈 Current Mission
 Learn → Build → Document → Automate → Deploy → Improve
 
